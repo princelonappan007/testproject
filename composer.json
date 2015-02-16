@@ -1,6 +1,7 @@
 {
     "name": "princelonappan007/testproject",
     "type": "library",
+   "version": "1.0.0",
     "description": "Logging for PHP 5.3",
     "keywords": ["log","logging"],
     "homepage": "https://github.com/princelonappan007/",
